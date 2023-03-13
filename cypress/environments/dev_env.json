@@ -1,0 +1,8 @@
+{
+  "env": {
+    "environment": "dev",
+    "email": "dev@email.com",
+    "url": "https://automationexercise.com/",
+    "api_url": "https://jsonplaceholder.cypress.io/comments"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "defaultCommandTimeout": 15000,
+  "pageLoadTimeout": 30000,
+  "testFiles": "**/*.feature",
+  "fixturesFolder": "cypress/data-files",
+  "supportFile": "cypress/common",
+  "requestTimeout": 10000,
+  "responseTimeout": 10000,
+  "video": false,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1700,
+  "viewportHeight": 1200,
+  "trashAssetsBeforeRuns": true,
+  "experimentalSessionAndOrigin": false,
+  "numTestsKeptInMemory": 40,
+  "retries": {
+    "runMode": 2
+  },
+  "env": {},
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "tests/test-output-[hash].xml",
+    "toConsole": true,
+    "attachments": true
+  }
+}
