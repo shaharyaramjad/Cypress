@@ -3,6 +3,7 @@
     "environment": "qa",
     "email": "qa@email.com",
     "url": "https://automationexercise.com/",
-    "api_url": "https://jsonplaceholder.cypress.io/comments"
+    "api_url": "https://jsonplaceholder.cypress.io/comments",
+    "username":"su"
   }
 }

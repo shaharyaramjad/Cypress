@@ -1,0 +1,16 @@
+{
+    "User_Name": "#userID",
+    "Password": "#password",
+    "Login"   :"#Login",
+    "close_btn":"#closeButtonId_0",
+    "Adjustment":"#batchAdjustments",
+    "Batch_required":"#nonPrintable > div.row-fluid > div.col-sm-8 > div > div:nth-child(25) > div:nth-child(1) > div > label > span",
+    "Batch_id":"#batchId",
+    "Member_no":"#ysearchinputmemberNumber",
+    "Bill_code":"select[name='ysearchinputbillCode']",
+    "Bill_code_search":"#ysearchinputbillCode",
+    "Date":"#date",
+    "Description":"#description",
+    "Add_btn":"[name='Add']",
+    "Msg_verify":"[class='alert alert-info']"
+  }

@@ -6,6 +6,9 @@ class API {
      */
     sendRequest() {
         cy.request(Cypress.env("api_url")).as('comments');
+
+        
+
     }
 
     /**
