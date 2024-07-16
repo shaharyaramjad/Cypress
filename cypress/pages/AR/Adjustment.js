@@ -1,4 +1,4 @@
-import '../../plugins/commands.js';
+import '../../common/Iframes.spec';
 
 class Adjustment{
 

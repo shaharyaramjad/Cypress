@@ -1,0 +1,16 @@
+{ 
+    "Test1":"CreateInvoice",
+    "CreateInvoice_MP": "#journalEntryInvoice",
+    "Vendor_Selection": "div.new-ui.container-fluid:nth-child(13) div.row div.col-xs-12 table.borderedTable tr.content:nth-child(1) table:nth-child(1) tbody:nth-child(1) tr:nth-child(1) td:nth-child(1) > input.form-control.input-sm.ysearchinput.ui-autocomplete-input",
+      "Invoice_Number": "div.new-ui.container-fluid:nth-child(13) div.row div.col-xs-12 table.borderedTable table:nth-child(1) tbody:nth-child(2) tr.content:nth-child(4) td:nth-child(2) > input.gwt-TextBox.form-control.input-sm",
+      "Invoice_Amount": "//body[1]/div[2]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[5]/td[2]/input[1]",
+      "Invoice_DraftBtn": "div.new-ui.container-fluid:nth-child(13) div.row div.col-xs-12 table:nth-child(1) tbody:nth-child(1) tr:nth-child(1) td:nth-child(1) > button.btn.btn-success.btn-sm",
+      "Check_Confirmation":"#done",
+      "Invoice_Selection": "//body[1]/div[2]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[4]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/span[1]/input[1]",
+      "Invoice_FinalizeBtn": "//body[1]/div[2]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[5]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/button[1]",
+      "Invoice_Payment_selection": "div.new-ui.container-fluid:nth-child(13) div.row div.col-xs-12 table:nth-child(1) tbody:nth-child(1) tr:nth-child(2) td:nth-child(1) > select.form-control.input-sm",
+      "Invoice_QuickPayBtn": "//body[1]/div[2]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[5]/td[1]/table[1]/tbody[1]/tr[1]/td[3]/button[1]",
+      "Invoice_Check_Selection": "div.new-ui div.container-fluid div.row:nth-child(15) div.col-md-12 td.content table.tableColoredBorder tbody:nth-child(2) tr:nth-child(1) td.oddRow:nth-child(10) > select.textinput",
+      "Invoice_check_confirmation": "#Pay",
+      "CheckPrintConfirm": "//body/form[@id='printCheckConfirmationForm']/div[1]/div[1]/div[4]/div[1]/input[2]"
+       }

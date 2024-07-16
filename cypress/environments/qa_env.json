@@ -2,8 +2,6 @@
   "env": {
     "environment": "qa",
     "email": "qa@email.com",
-    "url": "https://automationexercise.com/",
-    "api_url": "https://jsonplaceholder.cypress.io/comments",
-    "username":"su"
-  }
+    "url": "https://automation.globalnorthstar.net:9443/northstar-automation/",
+    "api_url": "https://automation.globalnorthstar.net:9443/northstar-automation/api/jsonws/member/get-member/1"}
 }
